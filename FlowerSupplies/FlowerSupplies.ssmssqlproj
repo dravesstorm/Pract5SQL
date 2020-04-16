@@ -1,0 +1,76 @@
+<?xml version="1.0"?>
+<SqlWorkbenchSqlProject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="FlowerSupplies">
+  <Items>
+    <LogicalFolder Name="Соединения" Type="2" Sorted="true">
+      <Items>
+        <ConnectionNode Name="DRAVESTORM\SQLEXPRESS:DRAVESTORM\drave">
+          <Created>2020-04-15T02:49:21.9432113+03:00</Created>
+          <Type>SQL</Type>
+          <Server>DRAVESTORM\SQLEXPRESS</Server>
+          <UserName />
+          <Authentication>Проверка подлинности Windows</Authentication>
+          <InitialDB>FlowerSupplies</InitialDB>
+          <LoginTimeout>30</LoginTimeout>
+          <ExecutionTimeout>0</ExecutionTimeout>
+          <ConnectionProtocol>NotSpecified</ConnectionProtocol>
+          <ApplicationName>Среда Microsoft SQL Server Management Studio - запрос</ApplicationName>
+        </ConnectionNode>
+      </Items>
+    </LogicalFolder>
+    <LogicalFolder Name="Запросы" Type="0" Sorted="true">
+      <Items>
+        <FileNode Name="AlterFlowerTable.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DRAVESTORM\SQLEXPRESS:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DRAVESTORM\SQLEXPRESS</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>AlterFlowerTable.sql</FullPath>
+        </FileNode>
+        <FileNode Name="CreateTables.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DRAVESTORM\SQLEXPRESS:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DRAVESTORM\SQLEXPRESS</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>CreateTables.sql</FullPath>
+        </FileNode>
+        <FileNode Name="DeliveredStoredProcedure.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DRAVESTORM\SQLEXPRESS:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DRAVESTORM\SQLEXPRESS</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>DeliveredStoredProcedure.sql</FullPath>
+        </FileNode>
+        <FileNode Name="DropAllTables.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DRAVESTORM\SQLEXPRESS:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DRAVESTORM\SQLEXPRESS</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>DropAllTables.sql</FullPath>
+        </FileNode>
+        <FileNode Name="FuncCanBeSupplied.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DRAVESTORM\SQLEXPRESS:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DRAVESTORM\SQLEXPRESS</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>FuncCanBeSupplied.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Insert.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DRAVESTORM\SQLEXPRESS:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DRAVESTORM\SQLEXPRESS</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Insert.sql</FullPath>
+        </FileNode>
+        <FileNode Name="SelectFlowerTypes.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DRAVESTORM\SQLEXPRESS:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DRAVESTORM\SQLEXPRESS</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>SelectFlowerTypes.sql</FullPath>
+        </FileNode>
+        <FileNode Name="UpdateAmount.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DRAVESTORM\SQLEXPRESS:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DRAVESTORM\SQLEXPRESS</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>UpdateAmount.sql</FullPath>
+        </FileNode>
+      </Items>
+    </LogicalFolder>
+    <LogicalFolder Name="Разное" Type="3" Sorted="true">
+      <Items />
+    </LogicalFolder>
+  </Items>
+</SqlWorkbenchSqlProject>
