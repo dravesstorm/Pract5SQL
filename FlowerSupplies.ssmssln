@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# SQL Server Management Studio Solution File, Format Version 18.00
+VisualStudioVersion = 15.0.28307.421
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "FlowerSupplies", "FlowerSupplies\FlowerSupplies.ssmssqlproj", "{5466F1C2-6920-476B-B3F5-DFAA5277C6FC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Default|Default = Default|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5466F1C2-6920-476B-B3F5-DFAA5277C6FC}.Default|Default.ActiveCfg = Default
+		{C9F6C9B7-BE95-4D00-8248-4F0FEB381537}.Default|Default.ActiveCfg = Default
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5C85CAE8-F4F5-426D-9782-E8FD3FF2B50B}
+	EndGlobalSection
+EndGlobal
